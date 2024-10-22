@@ -1,7 +1,5 @@
 # Pac-Man Game
 
-![Pac-Man Screenshot](img/pacman-screenshot.png) <!-- Replace with an actual screenshot of your game -->
-
 ## Table of Contents
 - [Introduction](#introduction)
 - [Features](#features)
